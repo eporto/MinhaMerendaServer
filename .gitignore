@@ -1,0 +1,6 @@
+/target/
+/heroku cmd/
+*.py
+.settings
+.vscode
+*.txt
